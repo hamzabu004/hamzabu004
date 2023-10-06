@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Tariq</h1>
 <h3 align="center">An ML Enthusiast.</h3>
 
-- 🌱 I’m currently learning **Machine Learniing from Campus X**
+- 🌱 I’m currently learning **Machine Learning from Campus X**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
